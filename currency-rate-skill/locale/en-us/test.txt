@@ -1,0 +1,19 @@
+{currency_a} (hozirgi kursini | kursini | narxini) (ayt | et)
+{currency_a} (qancha | qanchadan) (bo'lyapti | bo'votdi | bo'liyapti | bo'laypti | bo o'tdi | botdi)
+(hozirgi | ayni paytagi) {currency_a} (narxi | kursi | narxi qancha | kursi qancha)
+
+
+# sample responses
+
+The current exchange rate between {currency_a} and {currency_b} is 1 {currency_a} to {exchange_rate} {currency_b}
+{amount} {currency_a} is equal to {converted_amount} {currency_b} based on the current exchange rate
+Sure! {amount} {currency_a} is equivalent to {converted_amount} {currency_b} at the current exchange rate
+From central bank of uzbekistan
+
+# sample questions
+
+What is the exchange rate between {currency_a} and {currency_b}
+How much is {amount} {currency_a} in {currency_b}
+Can you convert {amount} {currency_a} to {currency_b}
+What is the central bank interest rate for {currency_a}
+Where are you taking currency information

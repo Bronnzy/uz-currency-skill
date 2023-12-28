@@ -1,0 +1,5 @@
+ayni paytagi {currency_a} kursi
+{currency_a} kursi
+{currency_a} (hozirgi kursini | kursini | narxini) (ayt | et | etvor | e'tibor)
+{currency_a} (qancha | qanchadan) (bo'lyapti | bo'votdi | bo'liyapti | bo'laypti | bo o'tdi | botdi | bo otdi | bo utdi)
+(hozirgi | ayni paytagi) {currency_a} (narxi | kursi | narxi qancha | kursi qancha)
